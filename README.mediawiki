@@ -1,3 +1,6 @@
+はく's mod of ConnectBot.
+All my changes under Apache 2 license.
+
 == Mods ==
 
 * Map 'search' to 'escape' (for tf101) from https://github.com/lorantkurthy/connectbot .
